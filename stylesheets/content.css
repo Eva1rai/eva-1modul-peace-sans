@@ -1,0 +1,338 @@
+ @font-face {
+    font-family: "Peace Sans";
+    src: url("font/PeaceSans.ttf");
+  }
+  
+  * {
+    box-sizing: border-box;
+    font-family: 'Peace Sans';
+    font-weight: 400;
+    letter-spacing: 0.05em;
+    color: white;
+  }
+  
+  body {
+    height: 1269px;
+    width: 100%;
+    margin: 0;
+    padding: 0;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: black;
+}
+
+.dis1{
+ align-items: flex-start;
+}
+ .Peace{
+    position: absolute;
+    font-size: 320px;
+    margin-top: 25px;
+    margin-left: 40px;
+}
+
+.avtot{
+  position: absolute;
+  font-size: 25px;
+  margin-top: 690px;
+  margin-left: 1010px;
+  line-height: 35px;
+  text-align: right;
+}
+
+.kartinka1{
+  margin-top: 270px;
+ align-self: flex-end;
+}
+
+.kartinka2{
+  margin-top: -20px;
+}
+
+.text-1{
+  position: absolute;
+  text-align: center;
+  margin-top: -10px;
+  color: #000;
+  font-size: 130px;
+  margin-left: 362px;
+  z-index: 1;
+}
+
+.kartinka3{
+  margin-top: 45px;
+  margin-left: 39px;
+  margin-right: 39px;
+}
+
+.opisanie{
+  position: absolute;
+  color: #000;
+  font-size: 23px;
+  margin-left: 80px;
+  margin-top: 85px;
+  line-height: 50px;
+  font-weight: 400;
+}
+
+.kartinka5{
+  margin-top: -3px;
+  margin-left: 2px;
+}
+
+.svoistva{
+  position: absolute;
+  margin-left: 45px;
+  margin-top: 30px;
+  color: #000000;
+  font-size: 130px;
+}
+
+.kartinka6{
+  margin-top: -5px;
+  margin-left: 80px;
+}
+
+.garnitura{
+  position: absolute;
+  color: #FFF;
+  font-size: 50px;
+  line-height: 50px;
+  margin-top: 200px;
+  margin-left: 50px;
+}
+
+.edinizi{
+  position: absolute;
+  color: #FFF;
+  font-size: 25px;
+  line-height: 50px;
+  margin-top: 350px;
+  margin-left: 50px;
+}
+
+.dannii{
+  position: absolute;
+  color: #FFF;
+  font-size: 25px;
+  line-height: 30px;
+  margin-top: 400px;
+  margin-left: 50px;
+}
+
+.bolchai{
+  position: absolute;
+  font-size: 50px;
+  margin-top: 700px;
+  margin-left: 760px;
+  text-align: right; 
+}
+
+.eziki{
+  position: absolute;
+  font-size: 25px;
+  margin-top: 850px;
+  margin-left: 1210px;
+  text-align: right; 
+}
+
+.infarma{
+  position: absolute;
+  color: #FFF;
+  font-size: 50px;
+  margin-top: 1200px;
+  margin-left: 50px;
+}
+
+.versia{
+position: absolute;
+  color: #FFF;
+  font-size: 23px;
+  font-weight: 400;
+  line-height: 30px;
+  margin-top: 1300px;
+  margin-left: 50px;
+}
+
+.kartinka7{
+  margin-top: -5px; 
+}
+
+.osobennosti{
+  position: absolute;
+  text-align: center;
+  margin-top: 118px;
+  color: #ffffff;
+  font-size: 130px;
+  margin-left: 230px;
+  z-index: 1;
+}
+
+.geometri{
+  position: absolute;
+  color: #000000;
+  font-size: 23px;
+  line-height: 35px;
+  margin-top: 620px;
+  margin-left: 870px;
+}
+
+.kartinka8{
+  margin-top: -450px;
+}
+
+.glifi{
+  position: absolute;
+  text-align: center;
+  margin-left: 470px;
+  margin-top: -435px;
+  color: #000000;
+  font-size: 130px;
+}
+
+.zifri{
+  position: absolute;
+  margin-top: 120px;
+  color: #ffffff;
+  font-size: 130px;
+  margin-left: 257px;
+  z-index: 1;
+}
+.h123{
+  position: absolute;
+  margin-top: 300px;
+  margin-left: 205px;
+  color: #FFF;
+  font-size: 350px;
+  font-weight: 400;
+  line-height: 305px; 
+}
+
+.h456{
+  position: absolute;
+  margin-top: 650px;
+  margin-left: 315px;
+  color: #FFF;
+  font-size: 350px;
+  font-weight: 400;
+  line-height: 305px; 
+}
+
+.h7890{
+  position: absolute;
+  margin-top: 1000px;
+  margin-left: 450px;
+  color: #FFF;
+  font-size: 350px;
+  font-weight: 400;
+  line-height: 305px; 
+}
+
+.nazvania{
+  position: absolute;
+  text-align: center;
+  margin-top: 20px;
+  color: #ffffff;
+  font-size: 130px;
+  margin-left: 40px;
+}
+
+.kartinka10{
+  margin-top: 180px;
+}
+
+.prazdniki{
+  position: absolute;
+  text-align: center;
+  margin-top: 230px;
+  color: #000000;
+  font-size: 170px;
+  margin-left: 330px;
+}
+
+.raspisanie{
+  position: absolute;
+  text-align: center;
+  margin-top: 575px;
+  color: #000000;
+  font-size: 75px;
+  margin-left: 520px;
+}
+
+.meeeti{
+  position: absolute;
+  margin-top: 770px;
+  color: #000000;
+  font-size: 155px;
+  margin-left: 100px;
+}
+
+.excursik{
+  position: absolute;
+  margin-top: 1125px;
+  text-align: right; 
+  color: #000000;
+  font-size: 155px;
+  margin-left: 485px;
+  text-align: right; 
+}
+
+.kinosik{
+  position: absolute;
+  margin-top: 1480px;
+  color: #000000;
+  font-size: 155px;
+  margin-left: 100px;
+}
+
+.dickotik{
+  position: absolute;
+  margin-top: 1825px;
+  text-align: right; 
+  color: #000000;
+  text-align: right; 
+  font-size: 170px;
+  margin-left: 820px;
+}
+
+.krupnih{
+  position: absolute;
+  margin-top: 2100px;
+  color: #ffffff;
+  font-size: 130px;
+  margin-left: 150px;
+}
+
+.kartinka11{
+  position: absolute;
+  margin-top: -25px;
+}
+
+.kiriliza{
+  position: absolute;
+  margin-top: 1310px;
+  color: #ffffff;
+  font-size: 50px;
+  margin-left: 140px;
+}
+
+.kartinka12{
+  position: relative;
+  margin-top: 2000px;
+  display: flex;
+  width: 100%;
+}
+
+.kartinka13{
+  position: absolute;
+  margin-top: -170px;
+}
+
+.evik{
+  position: absolute;
+  color: #ffffff;
+  font-size: 25px;
+  margin-top: -130px;
+  margin-left: 50px;
+  line-height: 35px;
+}
