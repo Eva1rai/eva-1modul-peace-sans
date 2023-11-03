@@ -1,6 +1,8 @@
  @font-face {
     font-family: "Peace Sans";
-    src: url("../font/PeaceSans.ttf");
+    src: url("../font/PeaceSans.ttf") format(truetype);
+    font-style: normal;
+    font-weight: normal;
   }
   
   * {
